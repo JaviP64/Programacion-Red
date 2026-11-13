@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "tipo": "alerta",
+    "descripcion": "Intento de acceso no autorizado",
+    "estado": "resuelta",
+    "hora": "2026-11-03 15:27:12"
+  },
+  {
+    "id": 2,
+    "tipo": "aviso",
+    "descripcion": "Vulnerabilidad localizada en el sistema",
+    "estado": "abierta",
+    "hora": "2026-11-03 15:27:38"
+  }
+]
